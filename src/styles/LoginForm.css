@@ -1,0 +1,67 @@
+.loginFormWrapper {
+  max-width: 720px;
+  min-width: 360px;
+  border-radius: 5px;
+  background: rgba(0, 0, 0, 0.35);
+  transition: all 500ms ease;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  font-variant: small-caps;
+}
+.loginForm {
+  padding: 0 1rem;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.loginForm h2 {
+  text-align: center;
+}
+label {
+  margin-top: 2rem;
+  font-size: small;
+  font-variant: small-caps;
+}
+input {
+  padding: 0.5rem;
+  margin: 0.5rem;
+  border: none;
+  border-radius: 10px;
+  transition: all 200ms ease;
+  min-width: 50%;
+  outline: none;
+}
+input:hover,
+input:focus,
+input:active {
+  border-radius: 0;
+}
+input[type='submit'],
+input[type='button'] {
+  color: white;
+  font-variant: small-caps;
+  background: linear-gradient(to right top, #ff9e5b, #d75b39);
+}
+input[disabled] {
+  border-color: gray;
+  background: gray;
+  color: #444;
+}
+.message {
+  padding: 1rem;
+  font-variant: small-caps;
+  font-weight: lighter;
+  text-align: center;
+}
+.text-success {
+  color: greenyellow;
+}
+.text-danger {
+  color: #ff1a15;
+}
+/*# sourceMappingURL=LoginForm.css.map */
