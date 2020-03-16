@@ -1,0 +1,25 @@
+body {
+    margin                  : 0;
+    font-family             : 'Segoe UI', sans-serif;
+    -webkit-font-smoothing  : antialiased;
+    -moz-osx-font-smoothing : grayscale;
+
+    color                   : white;
+
+    background              : #3A1C71; /* fallback for old browsers */
+    background              : -webkit-linear-gradient(to right top, #FFAF7B, #D76D77, #3A1C71); /* Chrome 10-25, Safari 5.1-6 */
+    background              : linear-gradient(to right top, #FFAF7B, #D76D77, #3A1C71); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#root {
+    min-height      : 100vh;
+    display         : flex;
+    flex-flow       : column nowrap;
+    justify-content : center;
+    align-items     : center;
+}
+
+code {
+    font-family : source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="011bdeec-22b4-47eb-b63e-75e29b91ebcd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/tests/LoginForm.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/livechat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/livechat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LoginForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LoginForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/LoginForm.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/LoginForm.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/LoginForm.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/LoginForm.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/LoginForm.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/LoginForm.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Less File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1YooBzvnyIE4ixJ89GxR5SiFskp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="13.1.0" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Roaming/npm/lessc" />
+    <property name="list.type.of.created.stylesheet" value="Less" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="ts.external.directory.path" value="C:\Users\Snippy\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-1\193.5233.80\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\filip\WebstormProjects\livechat-login\src\styles" />
+      <recent name="C:\Users\filip\WebstormProjects\livechat-login\src\tests" />
+      <recent name="C:\Users\filip\WebstormProjects\livechat-login\src\" />
+      <recent name="C:\Users\filip\WebstormProjects\livechat-login\src\\" />
+      <recent name="C:\Users\filip\WebstormProjects\livechat-login\src\components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.&lt;LoginForm /&gt;">
+    <configuration name="&lt;LoginForm /&gt;" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/tests/LoginForm.test.js" />
+      <test-names>
+        <test-name value="&lt;LoginForm /&gt;" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="&lt;LoginForm /&gt;.validated password input" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/tests/LoginForm.test.js" />
+      <test-names>
+        <test-name value="&lt;LoginForm /&gt;" />
+        <test-name value="validated password input" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="&lt;LoginForm /&gt;.validates email input" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/tests/LoginForm.test.js" />
+      <test-names>
+        <test-name value="&lt;LoginForm /&gt;" />
+        <test-name value="validates email input" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="node" />
+      <package-manager value="yarn" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.&lt;LoginForm /&gt;" />
+        <item itemvalue="Jest.&lt;LoginForm /&gt;.validated password input" />
+        <item itemvalue="Jest.&lt;LoginForm /&gt;.validates email input" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="011bdeec-22b4-47eb-b63e-75e29b91ebcd" name="Default Changelist" comment="" />
+      <created>1583618176673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583618176673</updated>
+      <workItem from="1583618179596" duration="9868000" />
+      <workItem from="1583686578155" duration="5302000" />
+      <workItem from="1583695355189" duration="252000" />
+      <workItem from="1583695638540" duration="8235000" />
+      <workItem from="1583777432793" duration="12411000" />
+      <workItem from="1584329474345" duration="9145000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="303" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1584374746746">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="303" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1920.1050/-1920.342.1920.1050@0.0.1920.1050" timestamp="1584374746746" />
+    <state x="640" y="252" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583946608647">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="640" y="252" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050/-1920.342.1920.1050@0.0.1920.1050" timestamp="1583946608647" />
+    <state x="674" y="231" key="#npm_start" timestamp="1583796098546">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="674" y="231" key="#npm_start/0.0.1920.1050/-1920.342.1920.1050@0.0.1920.1050" timestamp="1583796098546" />
+    <state width="549" height="904" key="GridCell.Tab.0.bottom" timestamp="1584383011627">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="549" height="904" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.342.1920.1050@0.0.1920.1050" timestamp="1584383011627" />
+    <state width="549" height="904" key="GridCell.Tab.0.center" timestamp="1584383011626">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="549" height="904" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.342.1920.1050@0.0.1920.1050" timestamp="1584383011626" />
+    <state width="549" height="904" key="GridCell.Tab.0.left" timestamp="1584383011626">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="549" height="904" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.342.1920.1050@0.0.1920.1050" timestamp="1584383011626" />
+    <state width="549" height="904" key="GridCell.Tab.0.right" timestamp="1584383011627">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="549" height="904" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.342.1920.1050@0.0.1920.1050" timestamp="1584383011627" />
+    <state x="461" y="166" key="SettingsEditor" timestamp="1584381889144">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="166" key="SettingsEditor/0.0.1920.1050/-1920.342.1920.1050@0.0.1920.1050" timestamp="1584381889144" />
+    <state x="767" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584036034086">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="767" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050/-1920.342.1920.1050@0.0.1920.1050" timestamp="1584036034086" />
+  </component>
+</project>
